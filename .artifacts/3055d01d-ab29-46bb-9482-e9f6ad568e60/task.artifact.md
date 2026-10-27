@@ -1,0 +1,5 @@
+- `[ ]` Configure Cloud Backend & Authentication (Firebase Auth & Firestore)
+- `[ ]` Update Web App (`app.py`) with Login Screen and Cloud Firestore Sync
+- `[ ]` Update Android Mobile App with Login Screen and Cloud Sync
+- `[ ]` Prepare Web App for Cloud Hosting & Deployment
+- `[ ]` Final Verification of Cross-Device Sync (Android ⇄ PC Web)

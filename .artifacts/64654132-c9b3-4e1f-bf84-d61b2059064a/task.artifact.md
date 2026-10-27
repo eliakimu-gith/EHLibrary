@@ -1,0 +1,6 @@
+- `[x]` 1. Set up Room database entities (`Book`, `ReadingSession`, `Note`, `ReadingPlan`) and AppDatabase
+- `[x]` 2. Implement Dark Green Theme and Glassmorphic UI components (`Theme.kt`)
+- `[/]` 3. Implement Home Dashboard Screen (`HomeDashboardScreen.kt`) with reading statistics
+- `[ ]` 4. Implement Reader & Split Note Screen (`ReaderScreen.kt`)
+- `[ ]` 5. Implement Planner & Alarms Screen (`PlannerScreen.kt`)
+- `[ ]` 6. Wire everything together in MainActivity and verify build & functionality
